@@ -1,0 +1,12 @@
+C:\Users\Visual_Dom\Desktop\Clases\Clase2\Clase2\bin\Debug\Clase2.exe.config
+C:\Users\Visual_Dom\Desktop\Clases\Clase2\Clase2\bin\Debug\Clase2.exe
+C:\Users\Visual_Dom\Desktop\Clases\Clase2\Clase2\bin\Debug\Clase2.pdb
+C:\Users\Visual_Dom\Desktop\Clases\Clase2\Clase2\obj\Debug\Clase2.csprojResolveAssemblyReference.cache
+C:\Users\Visual_Dom\Desktop\Clases\Clase2\Clase2\obj\Debug\Clase2.exe
+C:\Users\Visual_Dom\Desktop\Clases\Clase2\Clase2\obj\Debug\Clase2.pdb
+C:\adonetexample-master\Clase2\bin\Debug\Clase2.exe.config
+C:\adonetexample-master\Clase2\obj\Debug\Clase2.exe
+C:\adonetexample-master\Clase2\obj\Debug\Clase2.pdb
+C:\adonetexample-master\Clase2\obj\Debug\Clase2.csprojResolveAssemblyReference.cache
+C:\adonetexample-master\Clase2\bin\Debug\Clase2.exe
+C:\adonetexample-master\Clase2\bin\Debug\Clase2.pdb
